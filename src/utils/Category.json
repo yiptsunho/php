@@ -1,0 +1,26 @@
+[
+  {
+    "id": 5,
+    "label": "Vegan"
+  },
+  {
+    "id": 6,
+    "label": "Popular"
+  },
+  {
+    "id": 3,
+    "label": "BreakFast"
+  },
+  {
+    "id": 1,
+    "label": "Dinner"
+  },
+  {
+    "id": 4,
+    "label": "Healthy"
+  },
+  {
+    "id": 2,
+    "label": "Lunch"
+  }
+]
